@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760998732779",
+    "firebase_url": "https://ping-ball-3d.firebaseio.com",
+    "project_id": "ping-ball-3d",
+    "storage_bucket": "ping-ball-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760998732779:android:3feb6873e58b158b1e6fae",
+        "android_client_info": {
+          "package_name": "com.DNSGames.BeatMaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760998732779-5gbgordavjcc7o457u0ncog7jsgubok4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3ULaXJ4JzD9k6ajH37rtp2jaGd8b1KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760998732779-5gbgordavjcc7o457u0ncog7jsgubok4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlamesMat_Blue 1
+  m_Shader: {fileID: -6465566751694194690, guid: 010e2279e56b7e94ab5520dbafb24bde,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3002
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_235357C3:
+        m_Texture: {fileID: 2800000, guid: 7868eb010c3a80a499b318e44f3aede5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2CE14D26:
+        m_Texture: {fileID: 2800000, guid: c7d52adfee821534fba25d2ef6688938, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_B6A52B10: 0.1
+    m_Colors:
+    - Color_75DF29C3: {r: 1, g: 1, b: 1, a: 1}
+    - Vector2_ACCA325F: {r: 1, g: 0.05, b: 0, a: 0}
+    - Vector2_E2B16AEE: {r: -0.14, g: 0.7, b: 0, a: 0}
